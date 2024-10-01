@@ -1,1 +1,1 @@
-# Python_Data_Analytics_Project
+Performed data cleaning and EDA with NumPy, Pandas, Matplotlib, and Seaborn, enhancing customer experience through demographic analysis and boosting sales by identifying top product categories for inventory planning
